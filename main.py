@@ -18,14 +18,14 @@ movie_title = json_data.get("Title")
 year = json_data.get("Year")
 genre = json_data.get("Genre")
 director = json_data.get("Director")
-actors = json_data.get("Actors")
+actors = json_data.get("Actors") #добавил
 imdb_rating = json_data.get("imdbRating")
 print(f"Название: {movie_title}")
 print(f"Год: {year}")
 print(f"Жанр: {genre}")
 print(f"Режиссёр: {director}")
-print(f"Актёры: {actors}")
+print(f"Актёры: {actors}") # добавил
 print(f"Рейтинг IMDb: {imdb_rating}")
 
 #более красивый вывод
-print(f"Фильм '{movie_title}' ({year}) — жанр: {genre}, режиссёр: {director}, актёры: {actors}, рейтинг IMDb: {imdb_rating}")
+print(f"Фильм '{movie_title}' ({year}) — жgiанр: {genre}, режиссёр: {director}, актёры: {actors}, рейтинг IMDb: {imdb_rating}")
