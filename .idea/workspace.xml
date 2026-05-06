@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ccaf27d-800b-4130-a157-f63b990cdac2" name="Changes" comment="Добавлен базовый пример movie API с вводом ключа.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/llm_work.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/llm_work.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +117,7 @@
       <option name="presentableId" value="Default" />
       <updated>1776343214501</updated>
       <workItem from="1777098097037" duration="6452000" />
-      <workItem from="1778051963707" duration="2191000" />
+      <workItem from="1778051963707" duration="2524000" />
     </task>
     <servers />
   </component>
