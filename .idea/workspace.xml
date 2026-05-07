@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ccaf27d-800b-4130-a157-f63b990cdac2" name="Changes" comment="Добавлен базовый пример movie API с вводом ключа.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/llm_work.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/llm_work.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +59,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "env-feature",
+    "git-widget-placeholder": "llm-improve-2",
     "last_opened_file_path": "/Users/dreferd/PycharmProjects/PythonProject2",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
